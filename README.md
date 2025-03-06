@@ -1,2 +1,2 @@
-# ECS-130-
-This includes all of the Linear Algebra and algorithmic projects that I have completed throughout the course of ECS 130. This course entailed me to a deep amount of algorithmic and mathematical procedures
+# ECS-130
+This includes all of the Linear Algebra and algorithmic projects that I have completed throughout the course of ECS 130. This course entailed me to a deep amount of algorithmic and mathematical procedures, such as the Cholesky factorization, Householder algorithms, and other unique linear systems. The course's emphasis on linear systems gave me a deep understanding of ML designs and different methods to approach optimization in a coding environment. 
